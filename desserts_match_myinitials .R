@@ -21,4 +21,5 @@ pies <-  print(str_detect(dessert_listing$dessert, "pie")) %>%
 
 pies <- as.data.frame(print(str_detect(dessert_listing$dessert, "Apple pie")))
 
+jaskljasfd
 
