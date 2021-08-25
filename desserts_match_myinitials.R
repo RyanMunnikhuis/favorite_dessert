@@ -10,3 +10,6 @@ dessert_listing <- dessert_elements %>% html_text2() %>%
   write_csv("data/iconic_desserts.csv")
 
 print(str_detect(iconic_desserts$dessert, "brownies"))
+
+
+
